@@ -1,7 +1,6 @@
   # Image-Colorization-via-GAN
 ## This is the implement of IPIU paper "Gray-scale Image Colorization using Generative Adversarial Networks"
 The paper can be download [here](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201802&num=13852&pg=24&seGubun=6&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
-The dataset using in this paper can be download [here](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/D-HAZY_DATASET.zip)
 
 ## Prerequisites
 1. python 3.5
